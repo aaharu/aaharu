@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/aaharu/aaharu/master/profile-summary-card-output/chartreuse_dark/4-productive-time.svg)
+```
+
+    
